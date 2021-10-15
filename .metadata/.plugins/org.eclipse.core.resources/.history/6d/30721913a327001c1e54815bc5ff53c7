@@ -1,0 +1,5 @@
+package com.devsuperior.myfirstproject.repositoreis;
+
+public class CategoryRepository {
+
+}
