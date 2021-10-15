@@ -4209,3 +4209,39 @@ java.lang.Exception: File not found: /home/moises/Desktop/DEV/DevSuperior/ws-con
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 13:51:54.000
 !MESSAGE executing callback sts4.classpath.FuwvdBIN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:48.988
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:48.988
+!MESSAGE buffering callback sts4.classpath.FuwvdBIN problema-consultas-N+1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:48.988
+!MESSAGE executing callback sts4.classpath.FuwvdBIN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:48.994
+!MESSAGE executing callback sts4.classpath.FuwvdBIN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:54.762
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:54.762
+!MESSAGE buffering callback sts4.classpath.FuwvdBIN my-first-project true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:54.763
+!MESSAGE executing callback sts4.classpath.FuwvdBIN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:54.772
+!MESSAGE executing callback sts4.classpath.FuwvdBIN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:57.283
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:57.283
+!MESSAGE buffering callback sts4.classpath.FuwvdBIN aula true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:57.284
+!MESSAGE executing callback sts4.classpath.FuwvdBIN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-10-15 14:16:57.286
+!MESSAGE executing callback sts4.classpath.FuwvdBIN SUCCESS [done]
